@@ -1,0 +1,9 @@
+{
+  "name": "金健牛奶记账",
+  "short_name": "金健牛奶",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#1a73e8",
+  "icons": []
+}
